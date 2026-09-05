@@ -156,7 +156,7 @@ If you use this work, please cite it as:
 @mastersthesis{samanisiewe2026safou,
   author  = {Samani Siewe, Darix},
   title   = {Computer Vision for Multi-Category African Plum (Safou) Defect Detection},
-  school  = {African Institute for Mathematical Sciences (AIMS) Rwanda},
+  school  = {African Institute for Mathematical Sciences Rwanda},
   year    = {2026},
   month   = jun,
   address = {Kigali, Rwanda},
