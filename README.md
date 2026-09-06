@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Darix Samani Siewe |
 | **Program** | MSc in Mathematical Sciences with major in Data Science |
-| **Institution** | African Institute for Mathematical Sciences (AIMS), Rwanda |
+| **Institution** | African Institute for Mathematical Sciences (AIMS) Rwanda |
 
 ---
 
